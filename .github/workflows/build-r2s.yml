@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: Build ImmortalWrt for R2S
 
 on:
   repository_dispatch:
